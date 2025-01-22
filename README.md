@@ -18,7 +18,7 @@ EAD voltado para cursos de tecnologia</p>
 <li>API Git</li>
 <li>HTML5, CSS3</li>
 </ul>
-
+<p>Possívelmente alguma outra tecnologia será adicionada ao projeot, logo, virá o update na listagem.</p>
 <h3>Funcionalidades</h3>
 <p>Dentre as funções necessárias ao MVP, este projeto objetiva:<br>
 </p>
